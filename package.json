@@ -1,12 +1,16 @@
 {
   "name": "create-nothing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI that creates nothing",
   "main": "src/index.js",
   "bin": {
     "create-nothing": "bin/create-nothing"
   },
-  "files": ["bin/", "src/", "templates/"],
+  "files": [
+    "bin/",
+    "src/",
+    "templates/"
+  ],
   "publishConfig": {
     "access": "public"
   },
