@@ -9,7 +9,9 @@ This project has didactic purposes only.
 ## Usage
 
 **:warning: WARNING: This will create files, install packages and initialize a git repo in your current folder :warning:**
+
 **:warning: DO NOT RUN THIS IN ANY FOLDER WHICH ALREADY CONTAINS A GIT REPO :warning:**
+
 **:warning: CREATE AN EMPTY FOLDER TO TEST IT! :warning:**
 
 With yarn:
