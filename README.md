@@ -1,5 +1,5 @@
 # Simple CLI
-[![Version](https://img.shields.io/npm/v/Simple CLI.svg)](https://www.npmjs.com/package/Simple CLI)
+[![Version](https://img.shields.io/npm/v/create-nothing.svg)](https://www.npmjs.com/package/create-nothing)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 
 > A CLI that creates nothing
