@@ -6,6 +6,7 @@
   "bin": {
     "create-nothing": "bin/create-nothing"
   },
+  "files": ["bin/", "src/", "templates/"],
   "publishConfig": {
     "access": "public"
   },
