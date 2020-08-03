@@ -1,0 +1,25 @@
+{
+  "name": "create-nothing",
+  "version": "1.0.0",
+  "description": "A CLI that creates nothing",
+  "main": "src/index.js",
+  "bin": {
+    "create-nothing": "bin/create-nothing"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "cli",
+    "nothing",
+    "create",
+    "dummie",
+    "useless"
+  ],
+  "repository": "https://github.com/lucas-lm/create-nothing.git",
+  "author": "Lucas Miranda <lucas-m@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
